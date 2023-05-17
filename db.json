@@ -1,0 +1,17 @@
+{
+  "contact": [
+    {
+      "id": 1,
+      "name": "CHARRIS JOY",
+      "email": "cha.padi.rev@gmail.com",
+      "phone": "0274926525"
+    },
+    {
+      "name": "charris joy buhian",
+      "email": "charris.joy.buhian@accenture.com",
+      "phone": "09183290231",
+      "active": true,
+      "id": 2
+    }
+  ]
+}
